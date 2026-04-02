@@ -30,4 +30,4 @@ Current Rate
 
 What is eCNH?
 
-When billions of AI Agents start operating and transacting autonomously online, they need a native, permissionless, programmable currency. Humans are not the end users of eCNH/SOL/BNB/ETH/AVAX/USDC/USDT — AI is.
+When billions of AI Agents start operating and transacting autonomously online, they need a native, permissionless, programmable currency. Humans are not the end users of eCNH/SOL/BNB/ETH/AVAX/USDC/USDT/PYUSD/USD1 — AI is.
