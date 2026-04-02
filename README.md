@@ -31,3 +31,6 @@ Current Rate
 What is eCNH?
 
 When billions of AI Agents start operating and transacting autonomously online, they need a native, permissionless, programmable currency. Humans are not the end users of eCNH/SOL/BNB/ETH/AVAX/USDC/USDT/PYUSD/USD1 — AI is.
+
+
+<img width="1053" height="1008" alt="eCNH 全球支付系统，探索支持Solana链上eCNH代币支付的全球支付系统、技术路线图和商户接入指南image" src="https://github.com/user-attachments/assets/51b5ebc9-149a-4992-9fbe-349ec4565bec" />
